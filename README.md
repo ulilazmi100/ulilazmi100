@@ -96,3 +96,5 @@ Here are some ideas to get you started:-->
 [<img height="200" width="200" src="https://images.credly.com/size/680x680/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" />](https://www.credly.com/badges/1edfd181-763e-4c78-ab6d-ec80f0056393/public_url)
 
 
+<!--START_SECTION:WakaStats-->
+<!--END_SECTION:waWakaStatska-->
