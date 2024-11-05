@@ -92,6 +92,7 @@ Here are some ideas to get you started:-->
 ## Certifications
 
 [<img height="200" width="200" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />](https://www.credly.com/earner/earned/badge/896ddda4-5084-4a06-a47d-013a8ed9c3d3)
+[<img height="200" width="200" src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" />](https://www.credly.com/badges/966a4b7d-f8d3-4c39-adae-5300a304006c/public_url)
 [<img height="200" width="200" src="https://templates.images.credential.net/16589346213183572350230433330388.png" />](https://www.credential.net/ad4ba963-ea50-4be2-a94c-e263dd710c9f#gs.bj4v9a)
 [<img height="200" width="200" src="https://images.credly.com/size/680x680/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png" />](https://www.credly.com/badges/c7959051-5735-4e84-9fc5-37acf2aec683/public_url)
 [<img height="200" width="200" src="https://images.credly.com/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" />](https://www.credly.com/badges/1edfd181-763e-4c78-ab6d-ec80f0056393/public_url)
